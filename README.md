@@ -57,7 +57,7 @@ D. Map Reduce
 - hadoop -dfadmin safemode leave
 
 8. Some Unix Commands
--cd
+cd
 -ls
 -put
 -mv
