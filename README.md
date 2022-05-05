@@ -11,13 +11,13 @@ New Language
  - Java
 
 Installation Source :
-1. Pseudo distributed file system
-2. Fully distributed file system
+- Pseudo distributed file system
+- Fully distributed file system
 
-1. Ubuntu
-2. Hortonworks
-3. cloudera
-4. Map Reduce
+A. Ubuntu
+B. Hortonworks
+C. cloudera
+D. Map Reduce
 
 1. Concept of Big data and 5V
 2. Distributed File system
@@ -48,4 +48,33 @@ Installation Source :
 5. Difference b/w Hadoop and Spark
 
 6. What is HIVA Language? Pros and cans of HIVA
+
+7. Some Basic Commands
+- start -all.sh
+- jps
+- clear
+- hadoop -fs/ls
+- hadoop -dfadmin safemode leave
+
+8. Some Unix Commands
+-cd
+-ls
+-put
+-mv
+-cp
+-rm
+- Limit
  
+ 
+9. RDD
+-Save as Text File
+-Sort
+-Join
+-ReduceByKey
+-SortByKey
+-Take
+-Min
+-Max
+-First
+
+
